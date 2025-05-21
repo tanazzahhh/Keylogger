@@ -45,9 +45,9 @@ This project is a **Python-based keylogger** designed for **learning and ethical
 
 1. Clone or download this repository:
 
-   git clone https://github.com/your-username/keylogger-project
+   git clone https://github.com/tanazzahh/Keylogger
    
-   cd keylogger-project
+   cd Keylogger
 
 3. Run the keylogger:
 
