@@ -45,7 +45,7 @@ This project is a **Python-based keylogger** designed for **learning and ethical
 
 1. Clone or download this repository:
 
-   git clone https://github.com/tanazzahh/Keylogger
+   git clone https://github.com/tanazzahhh/Keylogger
    
    cd Keylogger
 
